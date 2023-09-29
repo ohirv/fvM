@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Eras ITC, Helvetica, sans-serif;
+}
+
+header {
+    background-color: teal;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.teal-bg {
+    background-color: teal;
+    color: white;
+    padding: 50px;
+}
+
+.cyan-bg {
+    background-color: cyan;
+    color: white;
+    padding: 50px;
+}
+
+.turquoise-bg {
+    background-color: turquoise;
+    color: white;
+    padding: 50px;
+}
+
+.magenta-bg {
+    background-color: magenta;
+    color: white;
+    padding: 50px;
+}
